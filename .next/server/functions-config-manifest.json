@@ -1,0 +1,6 @@
+{
+  "/detail/[id]": {},
+  "/profile/[id]": {},
+  "/": {},
+  "/search/[searchTerm]": {}
+}

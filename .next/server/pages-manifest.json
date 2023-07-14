@@ -1,6 +1,19 @@
 {
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
+  "/api/auth": "pages/api/auth.js",
+  "/api/discover/[topic]": "pages/api/discover/[topic].js",
+  "/api/like": "pages/api/like.js",
+  "/api/post": "pages/api/post.js",
+  "/api/post/[id]": "pages/api/post/[id].js",
+  "/api/search/[searchTerm]": "pages/api/search/[searchTerm].js",
+  "/api/users": "pages/api/users.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/api/profile/[id]": "pages/api/profile/[id].js",
+  "/_error": "pages/_error.js",
+  "/detail/[id]": "pages/detail/[id].js",
+  "/profile/[id]": "pages/profile/[id].js",
+  "/search/[searchTerm]": "pages/search/[searchTerm].js",
+  "/upload": "pages/upload.html",
+  "/": "pages/index.js",
+  "/404": "pages/404.html"
 }
